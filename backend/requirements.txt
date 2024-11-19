@@ -1,0 +1,9 @@
+# backend/requirements.txt
+flask==2.0.1
+sqlalchemy==1.4.23
+flask-sqlalchemy==2.5.1
+flask-jwt-extended==4.3.1
+pymysql==1.0.2
+werkzeug==2.0.1
+requests==2.26.0
+cryptography==3.4.7
